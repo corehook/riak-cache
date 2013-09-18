@@ -28,6 +28,7 @@ Gemfile*.lock
 **/bin
 *.rbc
 .rvmrc
+.idea
 
 .riaktest
 **/.riaktest
